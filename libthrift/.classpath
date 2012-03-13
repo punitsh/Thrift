@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="build" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/httpclient-4.1.2.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/httpcore-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/servlet-api-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="/home/impadmin/lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
